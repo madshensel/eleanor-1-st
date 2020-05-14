@@ -1,8 +1,15 @@
 # Eleanor 1st
-Handdrawn typeface. Eleanors first (1st) typeface.
+Hand drawn typeface. Eleanor's first (1st) typeface.
 
-Designer: Eleanor Lilly Marie Hensel
+__Designer:__ Eleanor Lilly Marie Hensel (5 years old)\
+__Engineer:__ Mads Hensel\
+__Foundry:__ Hensel Ink.
 
-Engineer: Mads Hensel
+### Design
+Based on a kids imagination. It's starts with tracing a basic letter shape and then the rules stop.
 
-Foundry: Hensel INC.
+Current font styles:
+
+| Name                 | Weight class
+| -------------------- | ----------------
+| Bold                 | 700
