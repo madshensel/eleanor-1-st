@@ -1,2 +1,8 @@
-# eleanor-1-st
-Typeface by Eleanor Lilly Marie Hensel. Her first (1st) typeface.
+# Eleanor 1st
+Handdrawn typeface. Eleanors first (1st) typeface.
+
+Designer: Eleanor Lilly Marie Hensel
+
+Engineer: Mads Hensel
+
+Foundry: Hensel INC.
