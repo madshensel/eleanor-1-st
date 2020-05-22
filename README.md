@@ -16,6 +16,6 @@ Current font styles:
 
 ### Previews
 
-![Letters]("/out/previews/letters.svg")\
-![Symbols and punctuation]("/out/previews/symbols-and-punctuation.svg")\
-![AC⚡️DC]("/out/previews/acdc.svg")
+![Letters]("https://raw.githubusercontent.com/madshensel/eleanor-1-st/master/out/previews/letters.svg")\
+![Symbols and punctuation]("https://raw.githubusercontent.com/madshensel/eleanor-1-st/master/out/previews/symbols-and-punctuation.svg")\
+![AC⚡️DC]("https://raw.githubusercontent.com/madshensel/eleanor-1-st/master/out/preview/acdc.svg")
