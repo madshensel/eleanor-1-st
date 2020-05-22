@@ -5,9 +5,12 @@ __Designer:__ Eleanor Lilly Marie Hensel (5 years old)\
 __Engineer:__ Mads Hensel\
 __Foundry:__ Hensel Ink.
 
+### Large files
+Due to git's LFS acting up all psd, psb files are split up to stay under 100MB.
+
 ### Design
 Based on a kids imagination. It's starts with tracing a basic letter shape and then the rules stop.
-git
+
 Current font styles:
 
 | Name                 | Weight class
