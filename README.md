@@ -16,7 +16,7 @@ Current font styles:
 
 ### Previews
 
-![Letters](https://raw.githubusercontent.com/madshensel/eleanor-1-st/master/-m-m out/previews/letters.svg)
+![Letters](https://raw.githubusercontent.com/madshensel/eleanor-1-st/master/out/previews/letters.svg)
 
 ![Symbols and punctuation](https://raw.githubusercontent.com/madshensel/eleanor-1-st/master/out/previews/symbols-and-punctuation.svg)
 
