@@ -1,6 +1,8 @@
 # Eleanor 1st
 Hand drawn typeface. Eleanor's first (1st) typeface.
 
+Work in progress. We do small session a few times a week or if she comes and ask. Goal is full nordic uppcase, 0-9, some special symboles and punctuation.
+
 __Designer:__ Eleanor Lilly Marie Hensel (5 years old)\
 __Engineer:__ Mads Hensel\
 __Foundry:__ Hensel Ink.
