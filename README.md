@@ -21,8 +21,8 @@ Current font styles:
 
 ### Previews
 
-![Letters](https://raw.githubusercontent.com/madshensel/eleanor-1-st/d9ff9007e72b67853fa85f0b6bb02b9439fd81de/out/preview/letters.svg)
+![Letters](https://raw.githubusercontent.com/madshensel/eleanor-1-st/d9ff9007e72b67853fa85f0b6bb02b9439fd81de/out/preview/letters-11.svg)
 
-![Symbols and punctuation](https://raw.githubusercontent.com/madshensel/eleanor-1-st/master/out/preview/symbols-and-punctuation.svg)
+![Symbols and punctuation](https://raw.githubusercontent.com/madshensel/eleanor-1-st/master/out/preview/symbols-and-punctuation-11.svg)
 
-![AC⚡️DC](https://raw.githubusercontent.com/madshensel/eleanor-1-st/master/out/preview/acdc.svg)
+![AC⚡️DC](https://raw.githubusercontent.com/madshensel/eleanor-1-st/master/out/preview/acdc-11.svg)
